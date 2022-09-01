@@ -1,2 +1,2 @@
-# Orical-
+# Orical
 Orical db softwares
